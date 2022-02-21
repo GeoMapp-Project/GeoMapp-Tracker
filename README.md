@@ -5,4 +5,4 @@ A simple maps project using Open Street Maps API using:
 - CSS
 - JS
 
-OBS: If you will use this app on your project, you need to move de .png or .jpeg archives to a created "IMG" folder!
+OBS: If you will use this app on your project, you need to move de .png or .jpeg archives to a named "IMG" folder!
